@@ -1,0 +1,19 @@
+{
+  "name": "jest-task-slavo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavomirSlovenkai/CalculatorTask.git"
+  },
+  "author": "mmihok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavomirSlovenkai/CalculatorTask/issues"
+  },
+  "homepage": "https://github.com/SlavomirSlovenkai/CalculatorTask#readme"
+}
